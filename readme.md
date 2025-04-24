@@ -1,10 +1,10 @@
-# Bunker Baba 📚
+# Smart Attendance Management Platform📚
 
 A smart attendance management platform for CHARUSAT University students to optimize their lecture attendance strategy.
 
 ## Overview
 
-Bunker Baba helps students make informed decisions about which lectures to attend by analyzing their current attendance data from eGovernance screenshots and calculating optimal attendance patterns to meet their target attendance goals.
+Smart Attendance Management Platform helps students make informed decisions about which lectures to attend by analyzing their current attendance data from eGovernance screenshots and calculating optimal attendance patterns to meet their target attendance goals.
 
 ## Features
 
